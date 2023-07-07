@@ -1,1 +1,2 @@
-TUDO É POSSÍVEL
+TUDO É POSSível
+Usado Termux
